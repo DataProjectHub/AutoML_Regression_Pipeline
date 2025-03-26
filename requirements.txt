@@ -9,3 +9,7 @@ uvicorn
 fastapi
 jinja2
 python-multipart
+streamlit
+sweetviz
+pdfkit
+joblib
